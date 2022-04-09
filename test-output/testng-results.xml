@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-09T12:49:38 PDT" name="Default suite" finished-at="2022-04-09T12:49:42 PDT" duration-ms="4202">
+    <groups>
+    </groups>
+    <test started-at="2022-04-09T12:49:38 PDT" name="Default test" finished-at="2022-04-09T12:49:42 PDT" duration-ms="4202">
+      <class name="testCases.TC_VideoGameAPI">
+        <test-method signature="Get_method()[pri:1, instance:testCases.TC_VideoGameAPI@483f6d77]" started-at="2022-04-09T12:49:38 PDT" name="Get_method" finished-at="2022-04-09T12:49:41 PDT" duration-ms="3683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_method -->
+        <test-method signature="Post_method()[pri:2, instance:testCases.TC_VideoGameAPI@483f6d77]" started-at="2022-04-09T12:49:41 PDT" name="Post_method" finished-at="2022-04-09T12:49:42 PDT" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post_method -->
+      </class> <!-- testCases.TC_VideoGameAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
